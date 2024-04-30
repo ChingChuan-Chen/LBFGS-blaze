@@ -7,14 +7,11 @@ The detailed features please refer to `LBFGS-Lite`.
 ### Requirement
 
 You will need the header Matrix C++ library, `blaze` to use this library.
+We only tested on `blaze` 3.8.2. If you found any problems, please report issues.
 
 ### Example
 
-You may refer the below code for the example.
-
-``` c++
-
-```
+You may refer [this file](./src/lbfgs_example.cpp) for the example code.
 
 ### Extension
 
